@@ -17,11 +17,11 @@ This project implements a real-time drone detection and classification system us
 
 | Name            | Key Roles and Contributions                                                                                   |
 |-----------------|----------------------------------------------------------------------------------------------------------------|
-| **Li&nbsp;Kerui**       | YOLOv8 training and optimization, data preprocessing, mAP and inference time analysis, visualization.       |
-| **Zhao&nbsp;Jichen**    | Project design, methodology writing, heatmap/confidence analysis, report integration and polishing.         |
-| **Zhou&nbsp;Xingyu**    | Dataset split and management, YOLOv5 comparison, error analysis, visualization and presentation framework.   |
-| **Thuta&nbsp;Zaw**      | Literature review, experiment logging, multilingual presentation materials and poster design.               |
-| **Zhang&nbsp;Gaorui**   | GUI design and visualization output support, system reproducibility and testing.                            |
+| **VALLIAPPAN V**       | YOLOv8 training and optimization, data preprocessing, mAP and inference time analysis, visualization.       |
+| **SATHAPPAN V**    | Project design, methodology writing, heatmap/confidence analysis, report integration and polishing.         |
+| **SUBESHAN M**    | Dataset split and management, YOLOv5 comparison, error analysis, visualization and presentation framework.   |
+| **SHIBIE R M**      | Literature review, experiment logging, multilingual presentation materials and poster design.               |
+| **VISHNU BALAN**   | GUI design and visualization output support, system reproducibility and testing.                            |
 
 > All members participated in weekly discussions, documentation, and final presentation.  
 
